@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## EXPLORE HERE  
+## EXPLORE HERE ⚫️
 ___________________
 
 <br>
@@ -19,7 +19,7 @@ Click here to go to my portfolio website <br>[RenéeSkibinski_portfolio]()
 <br>
 <br>
 
-### SCREENSHOTS 📸
+### SCREENSHOTS ⚫️
 ___________
 <br>
 
@@ -35,7 +35,7 @@ Main page <br>
 <br>
 
 
-### TECH USED 
+### TECH USED ⚫️
 ________________
 
 
@@ -52,7 +52,7 @@ ________________
 <br>
 
 
-### CREDITS 
+### CREDITS ⚫️
 ______________________________
 
 <br>
