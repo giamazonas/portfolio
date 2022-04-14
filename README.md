@@ -7,14 +7,13 @@
 > "Ever Tried, Ever Failed, No Matter. Try Again. Fail Again. Fail Better." -Samuel Beckett 
 
 <br>
-
-<br><br>
 <br>
 <br>
 
 ## EXPLORE HERE  
 ___________________
 
+<br>
 Click here to go to my portfolio website <br>[RenéeSkibinski_portfolio]()
 
 <br>
@@ -23,12 +22,12 @@ Click here to go to my portfolio website <br>[RenéeSkibinski_portfolio]()
 ### SCREENSHOTS 📸
 ___________
 <br>
+
 Main page <br>
 
 <img src ="" alt="Renée's portfolio" width="400"/>
 <br>
 <br>
-
  <br>
 
 <img src ="" alt="" width="400"/>
