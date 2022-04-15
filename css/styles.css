@@ -497,8 +497,7 @@ progress {
 }
 
 #skills {
-  size-adjust: icon-2x;
-
+  width: 100%;
 }
 
 .display-1 {

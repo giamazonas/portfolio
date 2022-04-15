@@ -1,10 +1,10 @@
-# Renée Skibinski - Portfolio 
+# Portfolio - Renée Skibinski 
 
 
 <br>
 <br>
 
-> "Ever Tried, Ever Failed, No Matter. Try Again. Fail Again. Fail Better." -Samuel Beckett 
+> "Ever Tried, Ever Failed, No Matter. Try Again. Fail Again. Fail Better." <br> -Samuel Beckett 
 
 <br>
 <br>
@@ -23,14 +23,13 @@ Click here to go to my portfolio website <br>[RenéeSkibinski_portfolio]()
 ___________
 <br>
 
-Main page <br>
+Welcome to my portfolio! <br>
 
-<img src ="" alt="Renée's portfolio" width="400"/>
+<img src ="https://i.imgur.com/KBtYn7e.png" alt="Renée's portfolio" width="400"/>
 <br>
 <br>
- <br>
 
-<img src ="" alt="" width="400"/>
+<img src ="https://i.imgur.com/2McIe3n.png" alt="mobile" width="200"/>
 <br>
 <br>
 
