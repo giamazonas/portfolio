@@ -496,6 +496,11 @@ progress {
   font-weight: 300;
 }
 
+#skills {
+  size-adjust: icon-2x;
+
+}
+
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 300;
